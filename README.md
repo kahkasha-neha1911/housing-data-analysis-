@@ -7,7 +7,7 @@ visualize the data using pair plot and heatmap
 
 statistical analysis using ANOVA TEST 
 
-using different regresxion models 
+using different regression models 
 
 compare the models on the basis of r-square value 
 
